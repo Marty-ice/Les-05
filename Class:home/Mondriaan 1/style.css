@@ -1,0 +1,37 @@
+#geel {
+  height: 400px;
+  width: 200px;
+  background: yellow;
+  }
+
+#wit {
+  height: 400px;
+  width: 244px;
+  background: white;
+  margin-left: 8px;
+  }
+
+#rood {
+  height: 400px;
+  width: 140px;
+  margin-left: 8px;
+  background: red;
+  }
+
+  .block {
+    float: left;
+  }
+
+  div {
+    display: block;
+}
+
+main {
+  width: 600px;
+  height: 400px;
+  background: black;
+}
+
+main {
+  display: block;
+}
