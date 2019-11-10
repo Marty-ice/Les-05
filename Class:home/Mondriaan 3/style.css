@@ -1,0 +1,57 @@
+#eerste {
+  height: 784px;
+  width: 225px;
+  background: red;
+  margin-left: 8px;
+  margin-top: 8px;
+  }
+
+#tweede {
+  height: 225px;
+  width: 551px;
+  background: yellow;
+  margin-left: 8px;
+  margin-top: 8px;
+  }
+
+#derde {
+  height: 225px;
+  width: 551px;
+  background: blue;
+  margin-left: 8px;
+  margin-top: 8px;
+  }
+
+  #vierde {
+    height: 317px;
+    width: 366px;
+    background: white;
+    margin-top: 8px;
+    margin-left: 8px;
+    }
+  
+  #vijfde {
+    height: 317px;
+    width: 177px;
+    background: yellow;
+    margin-top: 8px;
+    margin-left: 8px;
+  }
+
+  .block {
+    float: left;
+  }
+
+  div {
+    display: block;
+}
+
+main {
+  width: 800px;
+  height: 800px;
+  background: black;
+}
+
+main {
+  display: block;
+}
